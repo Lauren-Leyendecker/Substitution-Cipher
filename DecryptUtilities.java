@@ -1,3 +1,8 @@
+/*
+* Note: None of this code was created by me and was provided as a necessary part of a programming assignment
+* in my CS 312 Introduction to Programming course at the University of Texas at Austin.
+*/
+
 import java.io.File;
 import java.io.IOException;
 import java.util.Arrays;
